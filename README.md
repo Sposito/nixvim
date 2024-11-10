@@ -102,6 +102,7 @@ Please refer to the individual `.nix` files for more detailed configuration info
 ## References
 
 This configuration has taken inspiration from the following contributors.
-
+- [dc-tec](https://github.com/dc-tec/nixvim/) 
 - [Elythh](https://github.com/elythh/nixvim)
 - [MikaelFangel](https://github.com/MikaelFangel/nixvim-config)
+
