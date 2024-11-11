@@ -2,8 +2,6 @@
 
 This repository contains my personal configuration NixVim, a Neovim configuration managed with Nix.
 
-![Neovim](./.docs/images/neovim.png)
-
 ## How to use
 
 You can use this flake as an input:
@@ -11,7 +9,7 @@ You can use this flake as an input:
 ```nix
 {
     inputs = {
-        nixvim.url = "github:dc-tec/nixvim"
+        nixvim.url = "github:sposito/nixvim"
     };
 }
 ```
