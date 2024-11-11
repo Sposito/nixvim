@@ -3,6 +3,6 @@
   "platform": "github",
   "semanticCommits": true,
   "labels": ["renovate"],
-  "repositories": ["dc-tec/nixvim"],
+  "repositories": ["sposito/nixvim"],
   "extends": ["config:recommended"],
 }
